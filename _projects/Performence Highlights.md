@@ -16,14 +16,7 @@ featured_image: '/images/AnnaSavery_2.jpeg'
 ---
 
 
-<center><b><font size="+1"><font style="color:black">
-Red Liquid Triangular Condition.
-<p><br>
- Recorded at Eugene Goossens Hall ABC Ultimo, Sydney
- Anna Savery - <i>Violin<br></i>
-Maria Briggs - <i>Soprano<br></i>
-David Wickham - <i>Piano</i>
- <center>
+
 
 
 <center>

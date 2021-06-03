@@ -1,9 +1,9 @@
 ---
 title: 'blank'
 subtitle: 'blank'
-date: 2021-05-01 00:00:00
+date: 2019-05-01 00:00:00
 description:
-featured_image: '/images/AnnaSavery_2.jpeg'
+featured_image:
 ---
 
 ![](/images/AnnaSavery_2.jpeg)

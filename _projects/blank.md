@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
+title: 'blank'
+subtitle: 'blank'
+date: 2021-05-01 00:00:00
+description:
 featured_image: '/images/AnnaSavery_2.jpeg'
 ---
 
@@ -10,11 +10,7 @@ featured_image: '/images/AnnaSavery_2.jpeg'
 
 ## Demo content
 
-kkji
-
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+# add text
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 

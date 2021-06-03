@@ -1,113 +1,60 @@
 ---
 title: 'Violinist'
-subtitle: 'Performance Highlights'
-date: 2018-06-30 00:00:00
+subtitle: 'Recording Highlights'
+date: 2021-06-01 00:00:00
 description:
 featured_image: '/images/AnnaSavery_2.jpeg'
 ---
 
 ![](/images/AnnaSavery_2.jpeg)
 
-## Demo content
 
-kkji
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
 
 ---
-
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/square-01.jpg">
-	<img src="/images/demo/portrait-02.jpg">
-	<img src="/images/demo/square-02.jpg">
-	<img src="/images/demo/square-03.jpg">
-	<img src="/images/demo/square-04.jpg">
-	<img src="/images/demo/landscape-05.jpg">
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/square-01.jpg">
-    <img src="/images/demo/portrait-02.jpg">
-    <img src="/images/demo/square-02.jpg">
-    <img src="/images/demo/square-03.jpg">
-    <img src="/images/demo/square-04.jpg">
-    <img src="/images/demo/landscape-05.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
+<!--add images-->
 ---
 
-### Image carousels
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
+<center><b><font size="+1"><font style="color:black">
+Red Liquid Triangular Condition.
+<p><br>
+ Recorded at Eugene Goossens Hall ABC Ultimo, Sydney
+ Anna Savery - <i>Violin<br></i>
+Maria Briggs - <i>Soprano<br></i>
+David Wickham - <i>Piano</i>
+ <center>
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/landscape-02.jpg">
-	<img src="/images/demo/landscape-03.jpg">
-	<img src="/images/demo/landscape-04.jpg">
-</div>
+<center>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3280764462/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://annaosavery.bandcamp.com/album/red-liquid-triangular-condition">Red Liquid Triangular Condition by Hayden Woolf</a></iframe></center>
 
-### What about videos?
 
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
+<br><br><center><b><font size="+1"><font style="color:black">
+Prokofiev Violin Sonata no.2.
+<p><br>
+ Recorded at the Sydney Conservatorium of Music<br>
+ Anna Savery -<i> Violin<br></i>
+Phillip Shovk - <i>Piano</i>
+ <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e5y5nokdQKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1507090652/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://annaosavery.bandcamp.com/album/violin-sonata-no-2">Violin Sonata no.2 by Sergei Prokofiev</a></iframe>
+<center>
 
+
+
+<br><br><center><b><font size="+1"><font style="color:black">
+Annushka - Debut Album
+<p><br>
+ This project has been assisted by the Australian Government through the Australia Council, its arts funding and advisory body.<br>
+ Anna Savery - <i>Violin/5 String Electric Violin/Vocals<br></i>
+Richard Savery - <i>Baritone Saxophone/Bass Clarinet/Clarinet/Electric Bass<br></i>
+Blake Keep - <i>Nylon String Guitar/Vocals<br></i>
+Matt Gough - <i>Steel String Guitar</i>
+ <center>
+
+ <center>
+ <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1803842949/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://annaosavery.bandcamp.com/album/annushka">Annushka by Annushka</a></iframe>
+ <center>
 ---
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>

@@ -8,7 +8,7 @@ featured_image: '/images/ravel_un.jpg'
 
 ![](/images/ravel_un.jpg)
 
-<!--missing 1) Ariadna Ravel unraveled 2) Kamo Grideche-->
+<!--missing 1) Ariadna Ravel unraveled 2) Kamo Grideche, GAtech podcasts-->
 
 <center><b><font size="+1"><font style="color:black">
 Anna Savery Quintet

@@ -1,34 +1,21 @@
 ---
-title: About Board
-subtitle: blah blah
-description: Board is a stylish full-width masonry grid theme.
-featured_image: /images/demo/landscape-05.jpg
+title: A little bit about me
+subtitle: Professionally
+description:
+featured_image:
 ---
+![](/images/frekkle.jpg)
 
-![](/images/demo/landscape-05.jpg)
+I am a violinist, composer, improviser and music technologist. I create works which integrate improvised and composed music with cross-media platforms such as Max/MSP/Jitter, P5.js and Ableton Live in collaboration with multidisciplinary artists.
 
-## Features
+I completed an MFA in Integrated Composition, Improvisation and Technology at the University of California, Irvine in 2016. I also hold a Bachelor’s degree in Jazz Performance from the Sydney Conservatorium of Music and a Bachelor’s degree in Classical Performance from the Australian Institute of Music.
 
-We've packed Board full of powerful features to help showcase your work:
+I am currently based in Atlanta, Georgia, focusing on expanding my knowledge in creative computing and hardware design in order to pursue a Doctorate program in 2022.
 
-* Beautiful, minimal design
-* Full-width masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+## A little bit about me
+Personally
 
-## Get Board
+I am a wife and a mom of two incredible little girls. My family is my greatest source of inspiration.
+My husband, Richard Savery, and I met at the Sydney Conservatorium of Music, while doing a bachelor's degree in Jazz performance. Since then, we've had over a decade worth of adventures that helped mould us into the kinds of artists we strive to be.
 
-Board is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+![](/images/family.jpg)

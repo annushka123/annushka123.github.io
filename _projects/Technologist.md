@@ -33,7 +33,8 @@ Performed at the MoCap Studio, University of California, Irvine.
 <center><b><font size="+1"><font style="color:black">
 Fragments of a heartbeat<br>
 <p>MFA in Integrated Composition, Improvisation and Technology, Capstone Recital<br>
-Performed at the Winifred Smith Hall, University of California, Irvine.
+Performed at the Winifred Smith Hall, University of California, Irvine.<br>
+You can read my Thesis <a href="https://escholarship.org/uc/item/92s9z4f2">here</a>.
 
 
 <center>

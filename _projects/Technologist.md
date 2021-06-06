@@ -15,3 +15,32 @@ Brevity<br>
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7aAj2faVzg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
+<br>
+<center><b><font size="+1"><font style="color:black">
+Squeek, Sqwak, Click<br>
+<p>MFA in Integrated Composition, Improvisation and Technology, Creative Practices Showcase, Semester 2<br>
+Performed at the MoCap Studio, University of California, Irvine.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e5y5nokdQKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center><b><font size="+1"><font style="color:black">
+Little One<br>
+<p>MFA in Integrated Composition, Improvisation and Technology, Creative Practices Showcase, Semester 3<br>
+Performed at the MoCap Studio, University of California, Irvine.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKt6o0O-LPE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center><b><font size="+1"><font style="color:black">
+Fragments of a heartbeat<br>
+<p>MFA in Integrated Composition, Improvisation and Technology, Capstone Recital<br>
+Performed at the Winifred Smith Hall, University of California, Irvine.
+
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFuVBH_VoIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R-6xQ-9dmE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-89P3dr6Y1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TuYAMw3f8Es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

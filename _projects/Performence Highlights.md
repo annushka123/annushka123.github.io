@@ -1,6 +1,6 @@
 ---
 title: 'Violinist'
-subtitle: 'Recording Highlights'
+subtitle: 'Recorded Highlights'
 date: 2021-06-01 00:00:00
 description:
 featured_image: '/images/AnnaSavery_2.jpeg'

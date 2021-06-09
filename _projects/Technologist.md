@@ -1,7 +1,7 @@
 ---
 title: 'Music Technology'
 subtitle:
-date: 2018-05-01 00:00:00
+date: 2017-05-01 00:00:00
 description:
 featured_image: '/images/the_wedding.jpg'
 ---

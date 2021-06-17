@@ -16,6 +16,8 @@ menu_settings:
       # url: '/blog/'
     - title: 'About'
       url: '/about'
+    - title: 'CV'
+      url: 'https://annasavery.com/cv.pdf'
     - title: 'Contact'
       url: '/contact'
 

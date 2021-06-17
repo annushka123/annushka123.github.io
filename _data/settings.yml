@@ -12,8 +12,6 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    # - title: 'Bio'
-      # url: '/blog/'
     - title: 'About'
       url: '/about'
     - title: 'CV'

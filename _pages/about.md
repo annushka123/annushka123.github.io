@@ -2,7 +2,7 @@
 title: A little bit about me
 subtitle: Professionally
 description:
-featured_image:
+featured_image: 
 ---
 ![](/images/frekkle.jpg)
 

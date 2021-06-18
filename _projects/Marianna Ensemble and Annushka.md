@@ -1,12 +1,27 @@
 ---
-title: 'Marianna Ensemble and Annushka'
+title: 'Annushka and Marianna Ensemble'
 subtitle: 'Russian folk, Gypsy and Original'
 date: 2016-04-01 00:00:00
 description:
-featured_image: '/images/Marianna_outside.jpg'
+featured_image: '/images/Annushka.png'
 ---
 
-![](/images/Marianna.jpg)
+![](/images/backwards.png)
+
+
+<center><b><br><font size="+1"><font style="color:black">
+Annushka
+<p><br>
+Annushka was born out of Marianna Ensemble, initially as a place holder to cover confirmed engagements while Maria Briggs was working overseas, and then later as a band in its own right.
+
+<p><br>
+
+ Anna Savery - <i>Violin/Arranger/Composer/Vocals<br></i>
+ Richard Savery - <i>Bari Sax/Clarinet/Bass Clarinet/Composer/Arranger<br></i>
+ Blake Keep - <i>Guitar/Voice<br></i>
+ Matt Gough- <i>Guitar<br></i>
+<center><br>
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=1803842949/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://annaosavery.bandcamp.com/album/annushka">Annushka by Annushka</a></iframe></center><br>
 
 <center><b><br><font size="+1"><font style="color:black">
 Marianna Ensemble
@@ -18,7 +33,7 @@ The ensemble draws on the multi talents of its members, which between them share
 
 
 
-<center><b><font size="+1"><font style="color:black">
+<center><b><font size="+1"><font style="color:black"><br>
 Marianna Ensemble - Live
 <p><br>
 <center>
@@ -40,17 +55,3 @@ Marianna Ensemble - Debut Album
 
 <center><br>
 <iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1124803600/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://richardsavery.bandcamp.com/album/2012">2012 by Marianna Ensemble</a></iframe></center>
-
-<center><b><br><font size="+1"><font style="color:black">
-Annushka
-<p><br>
-Annushka was born out of Marianna Ensemble, initially as a place holder to cover confirmed engagements while Maria Briggs was working overseas, and then later as a band in its own right.
-
-<p><br>
-
- Anna Savery - <i>Violin/Arranger/Composer/Vocals<br></i>
- Richard Savery - <i>Bari Sax/Clarinet/Bass Clarinet/Composer/Arranger<br></i>
- Blake Keep - <i>Guitar/Voice<br></i>
- Matt Gough- <i>Guitar<br></i>
-<center><br>
-<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=1803842949/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://annaosavery.bandcamp.com/album/annushka">Annushka by Annushka</a></iframe></center>

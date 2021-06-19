@@ -1,7 +1,7 @@
 ---
 title: 'Annushka and Marianna Ensemble'
 subtitle: 'Russian folk, Gypsy and Original'
-date: 2016-04-01 00:00:00
+date: 2017-04-01 00:00:00
 description:
 featured_image: '/images/Annushka.png'
 ---
@@ -34,10 +34,14 @@ The ensemble draws on the multi talents of its members, which between them share
 
 
 <center><b><font size="+1"><font style="color:black"><br>
-Marianna Ensemble - Live
-<p><br>
+<p>Moscow Promenade - A Russian Medley
+
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/njcXh9eZhC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5IJwDmzXCUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+<center><b><br>
+<p>Shine My Star - arrangement by Anna Savery
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UcluwtnK4PY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

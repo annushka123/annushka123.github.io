@@ -6,7 +6,7 @@ description:
 featured_image: '/images/ravel_un.jpg'
 ---
 
-![](/images/ravel_un.jpg)
+<!-- ![](/images/ravel_un.jpg) -->
 
 <!--missing 1) Ariadna Ravel unraveled 2) Kamo Grideche, GAtech podcasts-->
 

@@ -19,3 +19,4 @@ I am a wife and a mom of two incredible little girls. My family is my greatest s
 My husband, Richard Savery, and I met at the Sydney Conservatorium of Music, while doing a bachelor's degree in Jazz performance. Since then, we've had over a decade worth of adventures that helped mould us into the kinds of artists we strive to be.
 
 ![](/images/family.jpg)
+ 

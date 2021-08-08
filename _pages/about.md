@@ -13,10 +13,9 @@ I completed an MFA in Integrated Composition, Improvisation and Technology at th
 I am currently based in Atlanta, Georgia, focusing on expanding my knowledge in creative computing and hardware design in order to pursue a Doctorate program in 2022.
 
 ## A little bit about me
-Personally
+Personally 
 
 I am a wife and a mom of two incredible little girls. My family is my greatest source of inspiration.
 My husband, Richard Savery, and I met at the Sydney Conservatorium of Music, while doing a bachelor's degree in Jazz performance. Since then, we've had over a decade worth of adventures that helped mould us into the kinds of artists we strive to be.
 
 ![](/images/family.jpg)
- 

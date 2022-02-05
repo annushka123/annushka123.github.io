@@ -10,7 +10,7 @@ I am a violinist, composer, improviser and music technologist. I create works wh
 
 I completed an MFA in Integrated Composition, Improvisation and Technology at the University of California, Irvine in 2016. I also hold a Bachelor’s degree in Jazz Performance from the Sydney Conservatorium of Music and a Bachelor’s degree in Classical Performance from the Australian Institute of Music.
 
-I am currently based in Atlanta, Georgia, focusing on expanding my knowledge in creative computing and hardware design in order to pursue a Doctorate program in 2022.
+I am currently living in Sydney and enjoying my first year of a PhD program in the Creativity and Cognition Studios at the University of Technology, Sydney under the very supportive and enthusiastic guidance of Andrew Johnston and Sam Ferguson.
 
 ## A little bit about me
 Personally

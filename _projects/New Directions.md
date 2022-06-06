@@ -1,6 +1,6 @@
 ---
-title: 'Rain'
-subtitle: First demo of audio-visual interface
+title: 'New Directions'
+subtitle: Experiments in intermedia storytelling
 date: 2021-05-01 00:00:00
 description:
 featured_image: '/images/girls.png'
@@ -9,8 +9,8 @@ featured_image: '/images/girls.png'
 <!-- ![](/images/the_wedding.jpeg) -->
 
 <center><b><font size="+1"><font style="color:black">
-Sleep analysiS<br>
-<p> Culmination of first few months of PhD research at University of Technology Sydney.
+Rain>
+<p> Demonstration video of audio-visual bow interface. Culmination of first few months of PhD research at University of Technology Sydney.
 
 
 <center>
@@ -18,11 +18,7 @@ Sleep analysiS<br>
 <br>
 
 
-title: 'New Directions'
-subtitle: Experiments in intermedia storytelling
-date: 2021-05-01 00:00:00
-description:
-featured_image: '/images/girls.png'
+
 ---
 
 <!-- ![](/images/the_wedding.jpeg) -->

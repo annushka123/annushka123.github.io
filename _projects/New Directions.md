@@ -10,7 +10,7 @@ featured_image: '/images/girls.png'
 
 <center><b><font size="+1"><font style="color:black">
 Sleep analysiS<br>
-<p>A data visualizatioj project done in p5.js. The sleep data was collected from an Amazon Halo wristband. Solo violin improvisation recorded and mixed using Logic.
+<p>A data visualization project done in p5.js. The sleep data was collected from an Amazon Halo wristband. Solo violin improvisation recorded and mixed using Logic.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4VAVpagBzT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

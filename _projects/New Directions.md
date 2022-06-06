@@ -1,4 +1,23 @@
 ---
+title: 'Rain'
+subtitle: First demo of audio-visual interface
+date: 2021-05-01 00:00:00
+description:
+featured_image: '/images/girls.png'
+---
+
+<!-- ![](/images/the_wedding.jpeg) -->
+
+<center><b><font size="+1"><font style="color:black">
+Sleep analysiS<br>
+<p> Culmination of first few months of PhD research at University of Technology Sydney.
+
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z66rgnPBrXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+
 title: 'New Directions'
 subtitle: Experiments in intermedia storytelling
 date: 2021-05-01 00:00:00

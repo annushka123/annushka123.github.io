@@ -9,7 +9,7 @@ featured_image: '/images/girls.png'
 <!-- ![](/images/the_wedding.jpeg) -->
 
 <center><b><font size="+1"><font style="color:black">
-Rain>
+Rain<br>
 <p> Demonstration video of audio-visual bow interface. Culmination of first few months of PhD research at University of Technology Sydney.
 
 
@@ -19,7 +19,6 @@ Rain>
 
 
 
----
 
 <!-- ![](/images/the_wedding.jpeg) -->
 

@@ -14,9 +14,15 @@ Kind Regards<br>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/pXp3XBujjEU?si=-XelCYtPuDiIK6QS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
 <center><b><font size="+1"><font style="color:black">
+Intersects<br>
+<p> A collaboration with Macquarie University research fellow, Dr. Richard Savery. This piece explores interactions between a human and robotic musician, incorporating interactive visuals with simple collision behaviours and a reactive particle system. In this piece, data from all the sensors within the audio-visual interface is used, both in communicating with Kierzo, the robotic musician and the various parameters of the visual content.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/5B3qRlL5FSc?si=BGmHTOCBM73kZwtR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
+<center><b><font size="+1"><font style="color:black">
 Rain<br>
 <p> Demonstration video of audio-visual bow interface. Culmination of first few months of PhD research at University of Technology Sydney.
-This research was published and presented at the ACMC conference, Ocotber 2023. You can read the full paper <a href ="https://journal.computermusic.org.au/chroma/article/view/14/23 "> here </a>.
+This research was published and presented at the ACMC conference, October 2023. You can read the full paper <a href ="https://journal.computermusic.org.au/chroma/article/view/14/23 "> here </a>.
 
 
 <center>

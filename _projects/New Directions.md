@@ -7,10 +7,16 @@ featured_image: '/images/girls.png'
 ---
 
 <!-- ![](/images/the_wedding.jpeg) -->
+<center><b><font size="+1"><font style="color:black">
+Kind Regards<br>
+<p> An audio-visual work, exploring meaningful ways of mapping accelerometer data from my wireless audio-visual violin bow interface.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pXp3XBujjEU?si=-XelCYtPuDiIK6QS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
 <center><b><font size="+1"><font style="color:black">
 Rain<br>
 <p> Demonstration video of audio-visual bow interface. Culmination of first few months of PhD research at University of Technology Sydney.
+This research was published and presented at the ACMC conference, Ocotber 2023. You can read the full paper <a href ="https://journal.computermusic.org.au/chroma/article/view/14/23 "> here </a>.
 
 
 <center>
@@ -32,7 +38,7 @@ Sleep analysiS<br>
 
 <center><b><font size="+1"><font style="color:black">
 Brevity<br>
-<p>A visual installation of a family holiday in Sydney and Perth, Australia. Images manipulated using Max/Jitter. Sound manipulation through PyPadberg system and Max/MSP. <br>You can view the published paper on the PyPadberg system that I presented at NIME, Brazil, in 2019. <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:ad2db826-e53f-4f90-a29d-14325acac337"> here</a>.
+<p>A visual installation of a family holiday in Sydney and Perth, Australia. Images manipulated using Max/Jitter. Sound manipulation through PyPadberg system and Max/MSP. <br>You can view the published paper on the PyPadberg system that I presented at NIME, Brazil, in 2019 <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:ad2db826-e53f-4f90-a29d-14325acac337"> here</a>.
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7aAj2faVzg0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

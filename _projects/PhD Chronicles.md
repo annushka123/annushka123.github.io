@@ -13,7 +13,7 @@ featured_image: '/images/keepsake.png'
 Keepsake<br>
 <p> An audio-visual work, exploring mixed-media and interactivity in Processing and Max.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pXp3XBujjEU?si=-XelCYtPuDiIK6QS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/C33I3LbiN18?si=6Phh4ntwCpRS_R80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 
@@ -21,7 +21,7 @@ Keepsake<br>
 Kind Regards<br>
 <p> An audio-visual work, exploring meaningful ways of mapping accelerometer data from my wireless audio-visual violin bow interface.
 
-<center><iframe width="560" height="315" src="https://youtu.com/embed/C33I3LbiN18?si=6Phh4ntwCpRS_R80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/pXp3XBujjEU?si=-XelCYtPuDiIK6QS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
 <center><b><font size="+1"><font style="color:black">
 Intersects<br>

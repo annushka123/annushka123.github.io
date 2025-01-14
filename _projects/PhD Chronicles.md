@@ -8,6 +8,19 @@ featured_image: '/images/keepsake.png'
 
 <!-- ![](/images/the_wedding.jpeg) -->
 
+<center><b><font size="+1"><font style="color:black">
+Ballad<br>
+<p> An audio-visual work fro augmented violin and tenor sax, exploring gen AI through data visualisation and interactivity. This work was composed for Hacking Visual Culture festival at UTS, 2024.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/xrIgtDzE-DQ?si=x-_0jabZXQmsTPoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<center><b><font size="+1"><font style="color:black">
+Fast Piece<br>
+<p> An audio-visual work fro augmented violin and tenor sax, exploring gen AI through data visualisation and interactivity. This work was composed for Hacking Visual Culture festival at UTS, 2024.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/DV-hX3UqSNM?si=z1jSw2cCXTGpfmJ9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+
 
 <center><b><font size="+1"><font style="color:black">
 Keepsake<br>
